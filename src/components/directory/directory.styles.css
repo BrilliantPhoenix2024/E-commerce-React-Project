@@ -4,3 +4,7 @@
   flex-wrap: wrap;
   justify-content: space-between;
 }
+
+.directory-menu .large {
+  height: 380px;
+}
